@@ -1,0 +1,13 @@
+html{
+    background: #333;
+    color: #eee;
+}
+
+h1{
+    padding: 1rem;
+    font-size: 32px;
+}
+
+p {
+    padding: 1rem;
+}

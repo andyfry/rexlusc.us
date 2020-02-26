@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>{{title}}</title>
+
+        <meta name="description" content="Coding, Gaming and Whatever">
+        <meta name="author" content="Andy Fry">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="/css/reset.css">
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+
+    <body>
+
+        <main>
+            <div class="content">
+                {% block main %}
+                    {{content | safe}}
+                {% endblock %}
+            </div>
+        </main>
+    </body>
