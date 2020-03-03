@@ -11,3 +11,19 @@ h1{
 p {
     padding: 1rem;
 }
+
+img[src*="#small"] {
+    width:210px;
+    height:100px;
+ }
+
+ul{
+    margin-left: 5rem;
+    color: white;
+    list-style: disc;
+}
+
+ul a 
+{
+    color: white;
+}
