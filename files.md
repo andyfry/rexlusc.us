@@ -12,3 +12,4 @@ layout: layout.njk
 - [To Hell ... and Back? v3.1](/files/ToHellv3.1.pdf)
 - [To Hell ... and Back? v4.0](/files/ToHellv4.0.pdf)
 - [To Hell ... and Back? v5.0](/files/ToHellv5.0.pdf)
+- [To Hell ... and Back? v6.0](/files/ToHellv6.0.pdf)
