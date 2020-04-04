@@ -15,10 +15,22 @@
     <body>
 
         <main>
+            <header>
+                <h1 class="title">Rex Luscus</h1>
+                <nav>
+                    <ul>
+                        <li><a href="/" {% if page.url === '/' %} class="active" {% endif %}>Home</a></li>
+                        <li><a href="/posts" {% if page.url.startsWith('/posts/') %} class="active" {% endif %}>Posts</a></li>
+                        <li><a  href="/files" {% if page.url.startsWith('/files/') %} class="active" {% endif %}>Files</a></li>
+                    </ul>
+                </nav>
+            </header>
+
             <div class="content">
                 {% block main %}
                     {{content | safe}}
                 {% endblock %}
             </div>
+            <p class="copyright">&copy; 2020 Andrew Dale Fry</p>
         </main>
     </body>

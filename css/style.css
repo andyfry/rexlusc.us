@@ -27,3 +27,47 @@ ul a
 {
     color: white;
 }
+
+header {
+    border-bottom: 1px #F20505 solid;
+}
+
+header h1{
+    font-family: Copperplate;
+    font-size: 36px;
+    font-weight: bolder;
+    color:#F20505;
+}
+
+header nav{
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav li .active{
+    color: #F20505;
+}
+
+.copyright {
+    position: absolute;
+    bottom: 0;
+    color: #aaa;
+    font-style: italic;
+    text-align: center;
+    margin: 0 0 5px;
+    width: 100%;
+}
