@@ -13,8 +13,10 @@ p {
 }
 
 img[src*="#small"] {
-    width:220px;
-    height:100px;
+    width: 25%;
+    height: 25%;
+    /*width:220px;
+    height:100px;*/
  }
 
 ul{
