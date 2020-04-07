@@ -1,5 +1,5 @@
 ---
-title: Front Page
+title: Rex Luscus's Files
 date: 2019-07-29
 layout: layout.njk
 ---
@@ -13,3 +13,4 @@ layout: layout.njk
 - [To Hell ... and Back? v4.0](/files/ToHellv4.0.pdf)
 - [To Hell ... and Back? v5.0](/files/ToHellv5.0.pdf)
 - [To Hell ... and Back? v6.0](/files/ToHellv6.0.pdf)
+- [To Hell ... and Back? v7.0](/files/ToHellv7.0.pdf)

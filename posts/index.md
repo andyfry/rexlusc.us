@@ -1,4 +1,5 @@
 ---
+title: Rex Luscus's Posts
 layout: layout.njk
 collection: posts
 eleventyExcludeFromCollections: true

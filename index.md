@@ -1,5 +1,5 @@
 ---
-title: Front Page
+title: Rex Luscus's Home
 date: 2019-07-29
 layout: layout.njk
 ---
