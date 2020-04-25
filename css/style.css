@@ -23,9 +23,36 @@ ul{
     margin-left: 4rem;
 }
 
-ul a 
+a 
 {
     color: #ddd;
+}
+
+a.back
+{
+    margin: 10px 10px 0 20px;
+    display: inline-block;
+    color: #666;
+    font-size: 14px;
+}
+
+h1.title
+{
+    margin: 10px 20px 0 20px;
+    padding: 0;
+}
+
+h2.published{
+    margin: 0 20px 0 20px;
+    color:#666;
+    font-size: 14px;
+}
+
+
+p
+{
+    padding: 1em 1em 0 1em;
+    text-indent: 1.5em;
 }
 
 header {
