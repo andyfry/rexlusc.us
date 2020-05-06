@@ -60,8 +60,13 @@
         "version":"v12.0"
     },
     {
-        "date":"2020-4-26ß",
+        "date":"2020-4-26",
         "session": 13,
         "version":"v13.0"
+    },
+    {
+        "date":"2020-5-2",
+        "session": 15,
+        "version":"v15.0"
     }
 ]
