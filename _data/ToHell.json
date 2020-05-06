@@ -58,5 +58,10 @@
         "date":"2020-4-22",
         "session": 12,
         "version":"v12.0"
+    },
+    {
+        "date":"2020-4-26ß",
+        "session": 13,
+        "version":"v13.0"
     }
 ]
