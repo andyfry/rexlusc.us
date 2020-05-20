@@ -27,4 +27,3 @@ layout: layout.njk
     <a href="/files/ToHell{{entry.version}}.pdf">Download</a>
 </div>
 {% endfor %}
-
