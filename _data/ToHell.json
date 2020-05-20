@@ -73,5 +73,10 @@
         "date":"2020-5-13",
         "session": 16,
         "version":"v16.0"
+    },
+    {
+        "date":"2020-5-13",
+        "session": 17,
+        "version":"v17.0"
     }
 ]
