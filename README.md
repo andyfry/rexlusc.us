@@ -7,6 +7,7 @@ My gaming website
 - Dungeon World
 
 # TODO
+- Front Page
 - Update version of eleventy
 - Move videogame articles
 - Create Gaming YouTube site
