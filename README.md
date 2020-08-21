@@ -8,7 +8,6 @@ My gaming website
 
 # TODO
 - Front Page
-- Update version of eleventy
 - Move videogame articles
 - Create Gaming YouTube site
 - Add DndBeyond Links
