@@ -104,15 +104,32 @@ nav li .active{
 
 .character {
     background-color: #858585;
-
-    padding: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
 }
 
 .character img{
     position: absolute;
+    left: 200px;
+    bottom: 100px;
 }
 
 .character .description {
-    float: right;
+    position: absolute;
+    right: 200px;
+    top: 200px;
     color: #333;
+    width: 300px;
+}
+
+.character .description h1 {
+    padding: 0;
+    font-size: 32px;
+}
+
+.character .description p{
+    padding: .5em 0 .5em 0;
 }
