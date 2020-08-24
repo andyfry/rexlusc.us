@@ -100,3 +100,19 @@ nav li .active{
     margin: 0 0 5px;
     width: 100%;
 }
+
+
+.character {
+    background-color: #858585;
+
+    padding: 200px;
+}
+
+.character img{
+    position: absolute;
+}
+
+.character .description {
+    float: right;
+    color: #333;
+}
