@@ -121,15 +121,21 @@ nav li .active{
     position: absolute;
     right: 200px;
     top: 200px;
-    color: #333;
-    width: 300px;
+    color: black;
+    width: 400px;
 }
 
 .character .description h1 {
     padding: 0;
-    font-size: 32px;
+    font-size: 48px;
+}
+
+.character .description h2 {
+    padding: 0;
+    font-size: 24px;
 }
 
 .character .description p{
-    padding: .5em 0 .5em 0;
+    padding: .5em 0 0 0;
+    font-size: 24px;
 }
